@@ -113,8 +113,11 @@
             .then(response => response.json())
             .then(data => {
                 data.forEach(airport => {
+
+                    
                     if(airport.lat && airport.lon) {
                         const marker = L.marker([airport.lat, airport.lon], { icon: chosenIcon });
+
                         
                         const etiquetteTerrain = airport.icao ? `${airport.icao} - ${airport.name}` : airport.name;
                         
@@ -125,6 +128,10 @@
                             className: 'custom-dark-popup'
                         });
 
+
+
+
+                        
                         marker.addTo(map);
                     }
                 });
