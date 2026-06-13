@@ -14,6 +14,13 @@
     "type": "large_airport"
   },
   {
+    "name": "Avranches-Val Saint Pierre airport",
+    "icao": "LFOB",
+    "lat": 48.661607,
+    "lon": -1.404254,
+    "type": "small_airport"
+  },
+  {
     "name": "Montpellier-Méditerranée Airport",
     "icao": "LFMT",
     "lat": 43.576199,
