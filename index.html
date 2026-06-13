@@ -1,1 +1,124 @@
-<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><title>Carte des Aérodromes</title><meta name="viewport" content="width=device-width,initial-scale=1.0"><link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/><style>body,html{margin:0;padding:0;height:100%;background-color:#000}#map{height:100vh;width:100vw;background-color:#000}.glow-dot,.glow-dot-selected{background:transparent!important;border:none!important;display:flex!important;align-items:center;justify-content:center;cursor:pointer}.glow-dot::after{content:'';display:block;width:4px;height:4px;background-color:#fff;border-radius:50%;box-shadow:0 0 10px 4px rgba(255,140,0,.8);transition:box-shadow .2s ease-in-out}.glow-dot-selected::after{content:'';display:block;width:5px;height:5px;background-color:#fff;border-radius:50%;box-shadow:0 0 14px 5px rgba(135,206,250,.9)}.glow-dot-selected{z-index:1000!important}</style></head><body><div id="map"></div><script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script><script>(function(){const _0x4d21=['map','setView','tileLayer','https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png','abcd','addTo','divIcon','glow-dot','iconSize','iconAnchor','glow-dot-selected','fetch','airports.json','json','then','forEach','lat','lon','marker','on','click','setIcon','Error loading the airports JSON:','error'];const _0x1a3b=function(_0x2e4f){return _0x4d21[_0x2e4f];};const _0x57c1=L[_0x1a3b(0)](_0x1a3b(0))[_0x1a3b(1)]([46.2276,2.2137],6);L[_0x1a3b(2)](_0x1a3b(3),{attribution:'&copy; <a href="https://carto.com/">CartoDB</a>',subdomains:_0x1a3b(4),maxZoom:19})[_0x1a3b(5)](_0x57c1);const _0x21f3=L[_0x1a3b(6)]({className:_0x1a3b(7),[_0x1a3b(8)]:[32,32],[_0x1a3b(9)]:[16,16]});const _0x3da2=L[_0x1a3b(6)]({className:_0x1a3b(10),[_0x1a3b(8)]:[32,32],[_0x1a3b(9)]:[16,16]});window[_0x1a3b(11)](_0x1a3b(12))[_0x1a3b(14)](_0x4b1e=>_0x4b1e[_0x1a3b(13)]())[_0x1a3b(14)](_0x19fa=>{_0x19fa[_0x1a3b(15)](_0x2c3a=>{if(_0x2c3a[_0x1a3b(16)]&&_0x2c3a[_0x1a3b(17)]){const _0x52b1=L[_0x1a3b(18)]([_0x2c3a[_0x1a3b(16)],_0x2c3a[_0x1a3b(17)]],{icon:_0x21f3});let _0x14ec=![];_0x52b1[_0x1a3b(19)](_0x1a3b(20),function(){if(!_0x14ec){_0x52b1[_0x1a3b(21)](_0x3da2);_0x14ec=!![];}else{_0x52b1[_0x1a3b(21)](_0x21f3);_0x14ec=![];}});_0x52b1[_0x1a3b(5)](_0x57c1);}});})['catch'](_0x32ab=>console[_0x1a3b(23)](_0x1a3b(22),_0x32ab));})();</script></body></html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>France Airports Map</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+
+    <style>
+        body, html { margin: 0; padding: 0; height: 100%; background-color: #000; }
+        #map { height: 100vh; width: 100vw; background-color: #000; }
+
+        /* The overall marker class becomes a large, transparent 32x32px flexbox container.
+           This serves as the invisible, easy-to-click hitbox. */
+        .glow-dot, .glow-dot-selected {
+            background: transparent !important;
+            border: none !important;
+            display: flex !important;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+        }
+
+        /* We isolate the visual dot and glow rules into a pseudo-element centered inside the hitbox */
+        .glow-dot::after {
+            content: '';
+            display: block;
+            width: 4px;
+            height: 4px;
+            background-color: #ffffff; 
+            border-radius: 50%;
+            box-shadow: 0 0 10px 4px rgba(255, 140, 0, 0.8); 
+            transition: box-shadow 0.2s ease-in-out; 
+        }
+
+        /* The selected visual dot state */
+        .glow-dot-selected::after {
+            content: '';
+            display: block;
+            width: 5px;
+            height: 5px;
+            background-color: #ffffff; 
+            border-radius: 50%;
+            box-shadow: 0 0 14px 5px rgba(135, 206, 250, 0.9); 
+        }
+
+        /* Forces the selected target's parent wrapper above unselected ones */
+        .glow-dot-selected {
+            z-index: 1000 !important;
+        }
+    </style>
+</head>
+<body>
+
+<div id="map"></div>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+<script>
+    const map = L.map('map').setView([46.2276, 2.2137], 6);
+
+    L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
+        attribution: '&copy; <a href="https://carto.com/">CartoDB</a>',
+        subdomains: 'abcd',
+        maxZoom: 19
+    }).addTo(map);
+
+    /* We expand the active icon size to 32x32 pixels. 
+       iconAnchor [16, 16] keeps the center point perfectly locked to the coordinates. */
+    const defaultIcon = L.divIcon({
+        className: 'glow-dot',
+        iconSize: [32, 32],
+        iconAnchor: [16, 16]
+    });
+
+    const selectedIcon = L.divIcon({
+        className: 'glow-dot-selected',
+        iconSize: [32, 32],
+        iconAnchor: [16, 16]
+    });
+
+    // Helper function to handle fetching and placing airport points
+    function renderAirports(jsonFile, chosenIcon) {
+        fetch(jsonFile)
+            .then(response => response.json())
+            .then(data => {
+                data.forEach(airport => {
+                    if(airport.lat && airport.lon) {
+                        const marker = L.marker([airport.lat, airport.lon], { icon: chosenIcon });
+                        
+                        /* ----------------------------------------------------
+                        // CLICK INTERACTION CODE (DISABLED FOR NOW)
+                        // To re-enable click behavior later, simply remove these comment slashes.
+                        
+                        let isSelected = (chosenIcon === selectedIcon);
+                        
+                        marker.on('click', function() {
+                            if (!isSelected) {
+                                marker.setIcon(selectedIcon);
+                                isSelected = true;
+                            } else {
+                                marker.setIcon(defaultIcon);
+                                isSelected = false;
+                            }
+                        });
+                        ---------------------------------------------------- */
+
+                        marker.addTo(map);
+                    }
+                });
+            })
+            .catch(error => console.error(`Error loading the file (${jsonFile}):`, error));
+    }
+
+    // Map both JSON files simultaneously 
+    // (Note: Adjust filenames inside the quotes below if you named your local files differently)
+    renderAirports('FLOWN.json', selectedIcon);     // Blue Cores
+    renderAirports('NOTFLOWN.json', defaultIcon); // Yellow Cores
+
+</script>
+
+</body>
+</html>
