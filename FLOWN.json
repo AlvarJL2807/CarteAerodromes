@@ -49,6 +49,13 @@
     "type": "small_airport"
   },
   {
+    "name": "Cosne sur Loire airport",
+    "icao": "LFGH",
+    "lat": 47.360879,
+    "lon": 2.916338,
+    "type": "small_airport"
+  },
+  {
     "name": "Montpellier-Méditerranée Airport",
     "icao": "LFMT",
     "lat": 43.576199,
