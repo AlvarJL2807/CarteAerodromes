@@ -42,6 +42,13 @@
     "type": "small_airport"
   },
   {
+    "name": "Reims Prunay airport",
+    "icao": "LFQA",
+    "lat": 49.208658,
+    "lon": 1.360772,
+    "type": "small_airport"
+  },
+  {
     "name": "Chartres Métropole airport",
     "icao": "LFOR",
     "lat": 48.457460,
