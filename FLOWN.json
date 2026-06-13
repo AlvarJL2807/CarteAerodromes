@@ -15,9 +15,23 @@
   },
   {
     "name": "Avranches-Val Saint Pierre airport",
-    "icao": "LFOB",
+    "icao": "LFRW",
     "lat": 48.661607,
     "lon": -1.404254,
+    "type": "small_airport"
+  },
+  {
+    "name": "Dreux Vernouillet airport",
+    "icao": "LFON",
+    "lat": 48.705676,
+    "lon": 1.360772,
+    "type": "small_airport"
+  },
+  {
+    "name": "Chartres Métropole airport",
+    "icao": "LFOR",
+    "lat": 48.457460,
+    "lon": 1.520044,
     "type": "small_airport"
   },
   {
