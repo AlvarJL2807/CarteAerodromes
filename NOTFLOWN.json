@@ -1,0 +1,1781 @@
+[
+  {
+    "name": "Charles de Gaulle International Airport",
+    "icao": "LFPG",
+    "lat": 49.00896,
+    "lon": 2.554117,
+    "type": "large_airport"
+  },
+  {
+    "name": "Paris-Orly Airport",
+    "icao": "LFPO",
+    "lat": 48.729499,
+    "lon": 2.358963,
+    "type": "large_airport"
+  },
+  {
+    "name": "Nice-C\u00f4te d'Azur Airport",
+    "icao": "LFMN",
+    "lat": 43.658401,
+    "lon": 7.21587,
+    "type": "large_airport"
+  },
+  {
+    "name": "Marseille Provence Airport",
+    "icao": "LFML",
+    "lat": 43.438088,
+    "lon": 5.2125,
+    "type": "large_airport"
+  },
+  {
+    "name": "Toulouse-Blagnac Airport",
+    "icao": "LFBO",
+    "lat": 43.629101,
+    "lon": 1.36382,
+    "type": "large_airport"
+  },
+  {
+    "name": "Lyon Saint-Exup\u00e9ry Airport",
+    "icao": "LFLL",
+    "lat": 45.725996,
+    "lon": 5.090139,
+    "type": "large_airport"
+  },
+  {
+    "name": "Bordeaux\u2013M\u00e9rignac Airport",
+    "icao": "LFBD",
+    "lat": 44.82865,
+    "lon": -0.715356,
+    "type": "large_airport"
+  },
+  {
+    "name": "Paris-Le Bourget International Airport",
+    "icao": "LFPB",
+    "lat": 48.962276,
+    "lon": 2.436539,
+    "type": "large_airport"
+  },
+  {
+    "name": "Nantes Atlantique Airport",
+    "icao": "LFRS",
+    "lat": 47.153198,
+    "lon": -1.61073,
+    "type": "medium_airport"
+  },
+  {
+    "name": "Strasbourg Airport",
+    "icao": "LFST",
+    "lat": 48.5383,
+    "lon": 7.62823,
+    "type": "large_airport"
+  },
+  {
+    "name": "Lille Airport",
+    "icao": "LFQQ",
+    "lat": 50.566564,
+    "lon": 3.102429,
+    "type": "large_airport"
+  },
+  {
+    "name": "Bastia-Poretta International airport",
+    "icao": "LFKB",
+    "lat": 42.5527,
+    "lon": 9.48373,
+    "type": "large_airport"
+  },
+  {
+    "name": "Biarritz Pays Basque airport",
+    "icao": "LFBZ",
+    "lat": 43.468372,
+    "lon": -1.523223,
+    "type": "medium_airport"
+  },
+  {
+    "name": "Grenoble Alpes Is\u00e8re Airport",
+    "icao": "LFLS",
+    "lat": 45.3629,
+    "lon": 5.32937,
+    "type": "medium_airport"
+  },
+  {
+    "name": "Avignon Caumont airport",
+    "icao": "LFMV",
+    "lat": 43.907299,
+    "lon": 4.90183,
+    "type": "medium_airport"
+  },
+  {
+    "name": "Limoges Airport",
+    "icao": "LFBL",
+    "lat": 45.862801,
+    "lon": 1.17944,
+    "type": "medium_airport"
+  },
+  {
+    "name": "Annecy Meythet airport",
+    "icao": "LFLP",
+    "lat": 45.928947,
+    "lon": 6.0987,
+    "type": "medium_airport"
+  },
+  {
+    "name": "Tours Val de Loire Airport",
+    "icao": "LFOT",
+    "lat": 47.432201,
+    "lon": 0.727606,
+    "type": "medium_airport"
+  },
+  {
+    "name": "Toulon-Hy\u00e8res Airport",
+    "icao": "LFTH",
+    "lat": 43.097301,
+    "lon": 6.14603,
+    "type": "medium_airport"
+  },
+  {
+    "name": "Brest Bretagne airport",
+    "icao": "LFRB",
+    "lat": 48.447899,
+    "lon": -4.41854,
+    "type": "large_airport"
+  },
+  {
+    "name": "N\u00eemes-Arles-Camargue Airport",
+    "icao": "LFTW",
+    "lat": 43.757401,
+    "lon": 4.41635,
+    "type": "medium_airport"
+  },
+  {
+    "name": "Pau Pyr\u00e9n\u00e9es Airport",
+    "icao": "LFBP",
+    "lat": 43.380001,
+    "lon": -0.418611,
+    "type": "medium_airport"
+  },
+  {
+    "name": "Courchevel Altiport",
+    "icao": "LFLJ",
+    "lat": 45.397531,
+    "lon": 6.63498,
+    "type": "small_airport"
+  },
+  {
+    "name": "Chalons Vatry airport",
+    "icao": "LFOK",
+    "lat": 48.77333,
+    "lon": 4.20611,
+    "type": "medium_airport"
+  },
+  {
+    "name": "Saint-\u00c9tienne-Bouth\u00e9on Airport",
+    "icao": "LFMH",
+    "lat": 45.5406,
+    "lon": 4.29639,
+    "type": "medium_airport"
+  },
+  {
+    "name": "Metz-Nancy-Lorraine Airport",
+    "icao": "LFJL",
+    "lat": 48.982101,
+    "lon": 6.25132,
+    "type": "medium_airport"
+  },
+  {
+    "name": "Dole Tavaux Airport",
+    "icao": "LFGJ",
+    "lat": 47.038955,
+    "lon": 5.427589,
+    "type": "medium_airport"
+  },
+  {
+    "name": "Meg\u00e8ve Altiport",
+    "icao": "LFHM",
+    "lat": 45.823005,
+    "lon": 6.649406,
+    "type": "small_airport"
+  },
+  {
+    "name": "Dijon Longvic airport",
+    "icao": "LFSD",
+    "lat": 47.268902,
+    "lon": 5.09,
+    "type": "medium_airport"
+  },
+  {
+    "name": "Valence-Chabeuil Airport",
+    "icao": "LFLU",
+    "lat": 44.9216,
+    "lon": 4.9699,
+    "type": "medium_airport"
+  },
+  {
+    "name": "Toulouse-Lasbordes Airfield",
+    "icao": "LFCL",
+    "lat": 43.58677,
+    "lon": 1.49924,
+    "type": "small_airport"
+  },
+  {
+    "name": "Gap-Tallard Airfield",
+    "icao": "LFNA",
+    "lat": 44.455002,
+    "lon": 6.03778,
+    "type": "small_airport"
+  },
+  {
+    "name": "Albertville General Pierre Delachenal Airfield",
+    "icao": "LFKA",
+    "lat": 45.626044,
+    "lon": 6.328125,
+    "type": "small_airport"
+  },
+  {
+    "name": "Lorient South Brittany (Bretagne Sud) Airport",
+    "icao": "LFRH",
+    "lat": 47.760601,
+    "lon": -3.44,
+    "type": "medium_airport"
+  },
+  {
+    "name": "Vinon Airfield",
+    "icao": "LFNF",
+    "lat": 43.737801,
+    "lon": 5.78417,
+    "type": "small_airport"
+  },
+  {
+    "name": "Brive Souillac airport",
+    "icao": "LFSL",
+    "lat": 45.039722,
+    "lon": 1.485556,
+    "type": "medium_airport"
+  },
+  {
+    "name": "Bourg-Ceyz\u00e9riat Airfield",
+    "icao": "LFHS",
+    "lat": 46.200901,
+    "lon": 5.29203,
+    "type": "small_airport"
+  },
+  {
+    "name": "Mont\u00e9limar-Anc\u00f4ne Airfield",
+    "icao": "LFLQ",
+    "lat": 44.579883,
+    "lon": 4.738789,
+    "type": "small_airport"
+  },
+  {
+    "name": "Ruoms Airfield",
+    "icao": "LFHF",
+    "lat": 44.444611,
+    "lon": 4.332755,
+    "type": "small_airport"
+  },
+  {
+    "name": "Lannion Airport",
+    "icao": "LFRO",
+    "lat": 48.754398,
+    "lon": -3.47166,
+    "type": "medium_airport"
+  },
+  {
+    "name": "Merville-Calonne Airport",
+    "icao": "LFQT",
+    "lat": 50.618401,
+    "lon": 2.64224,
+    "type": "medium_airport"
+  },
+  {
+    "name": "La M\u00f4le Airport",
+    "icao": "LFTZ",
+    "lat": 43.205399,
+    "lon": 6.482,
+    "type": "small_airport"
+  },
+  {
+    "name": "Maubeuge-\u00c9lesmes Airfield",
+    "icao": "LFQJ",
+    "lat": 50.310501,
+    "lon": 4.03312,
+    "type": "small_airport"
+  },
+  {
+    "name": "A\u00e9rodrome de Montpellier - Candillargues",
+    "icao": "LFNG",
+    "lat": 43.610298,
+    "lon": 4.07028,
+    "type": "small_airport"
+  },
+  {
+    "name": "Albert Bray airport",
+    "icao": "LFAQ",
+    "lat": 49.970049,
+    "lon": 2.693939,
+    "type": "small_airport"
+  },
+  {
+    "name": "Ch\u00e2teau-Arnoux-Saint-Auban Airfield",
+    "icao": "LFMX",
+    "lat": 44.060001,
+    "lon": 5.99139,
+    "type": "small_airport"
+  },
+  {
+    "name": "S\u00e9dan Douzy Airfield",
+    "icao": "LFSJ",
+    "lat": 49.659698,
+    "lon": 5.03778,
+    "type": "small_airport"
+  },
+  {
+    "name": "Haguenau Airfield",
+    "icao": "LFSH",
+    "lat": 48.794821,
+    "lon": 7.816129,
+    "type": "small_airport"
+  },
+  {
+    "name": "M\u00e9ribel Altiport",
+    "icao": "LFKX",
+    "lat": 45.407505,
+    "lon": 6.577597,
+    "type": "small_airport"
+  },
+  {
+    "name": "Castres Mazamet Airport",
+    "icao": "LFCK",
+    "lat": 43.556301,
+    "lon": 2.28918,
+    "type": "medium_airport"
+  },
+  {
+    "name": "Charleville-M\u00e9zi\u00e8res Ardennes-Etienne Rich\u00e9 Airfield",
+    "icao": "LFQV",
+    "lat": 49.783901,
+    "lon": 4.64708,
+    "type": "medium_airport"
+  },
+  {
+    "name": "Vichy-Charmeil Airport",
+    "icao": "LFLV",
+    "lat": 46.16969,
+    "lon": 3.403637,
+    "type": "medium_airport"
+  },
+  {
+    "name": "Aubenas-South Ard\u00e8che Airport",
+    "icao": "LFHO",
+    "lat": 44.544367,
+    "lon": 4.372194,
+    "type": "medium_airport"
+  },
+  {
+    "name": "Corlier Altiport",
+    "icao": "LFJD",
+    "lat": 46.040531,
+    "lon": 5.494537,
+    "type": "small_airport"
+  },
+  {
+    "name": "Chamb\u00e9ry Challes-les-Eaux Airfield",
+    "icao": "LFLE",
+    "lat": 45.5611,
+    "lon": 5.97576,
+    "type": "small_airport"
+  },
+  {
+    "name": "Villefranche-Tarare Airfield",
+    "icao": "LFHV",
+    "lat": 45.918314,
+    "lon": 4.635184,
+    "type": "small_airport"
+  },
+  {
+    "name": "A\u00e9rodrome de Graulhet-Montdragon",
+    "icao": "LFCQ",
+    "lat": 43.771099,
+    "lon": 2.01083,
+    "type": "small_airport"
+  },
+  {
+    "name": "Mont-Dauphin Saint-Cr\u00e9pin Airfield",
+    "icao": "LFNC",
+    "lat": 44.701698,
+    "lon": 6.60028,
+    "type": "small_airport"
+  },
+  {
+    "name": "Barcelonnette - Saint-Pons Airfield",
+    "icao": "LFMR",
+    "lat": 44.387198,
+    "lon": 6.608831,
+    "type": "small_airport"
+  },
+  {
+    "name": "Bellegarde-Vouvray Airfield",
+    "icao": "LFHN",
+    "lat": 46.123336,
+    "lon": 5.804858,
+    "type": "small_airport"
+  },
+  {
+    "name": "\u00c9pinal Mirecourt Airport",
+    "icao": "LFSG",
+    "lat": 48.325001,
+    "lon": 6.06998,
+    "type": "medium_airport"
+  },
+  {
+    "name": "A\u00e9rodrome d'Al\u00e8s C\u00e9vennes",
+    "icao": "LFMS",
+    "lat": 44.069698,
+    "lon": 4.14212,
+    "type": "medium_airport"
+  },
+  {
+    "name": "Cahors Lalbenque airport",
+    "icao": "LFCC",
+    "lat": 44.351398,
+    "lon": 1.47528,
+    "type": "medium_airport"
+  },
+  {
+    "name": "A\u00e9rodrome d'Aubenasson",
+    "icao": "LFJF",
+    "lat": 44.6945,
+    "lon": 5.15111,
+    "type": "small_airport"
+  },
+  {
+    "name": "A\u00e9rodrome de Montendre-Marcillac",
+    "icao": "LFDC",
+    "lat": 45.274399,
+    "lon": -0.452222,
+    "type": "small_airport"
+  },
+  {
+    "name": "Chelles-le-Pin Airfield",
+    "icao": "LFPH",
+    "lat": 48.896568,
+    "lon": 2.606206,
+    "type": "small_airport"
+  },
+  {
+    "name": "Lyon Corbas Airfield",
+    "icao": "LFHJ",
+    "lat": 45.654202,
+    "lon": 4.91361,
+    "type": "small_airport"
+  },
+  {
+    "name": "Lons-le-Saunier Courlaoux Airfield",
+    "icao": "LFGL",
+    "lat": 46.675046,
+    "lon": 5.46911,
+    "type": "small_airport"
+  },
+  {
+    "name": "Pierrelatte Airfield",
+    "icao": "LFHD",
+    "lat": 44.397601,
+    "lon": 4.717646,
+    "type": "small_airport"
+  },
+  {
+    "name": "A\u00e9rodrome de Mimizan",
+    "icao": "LFCZ",
+    "lat": 44.145928,
+    "lon": -1.16432,
+    "type": "small_airport"
+  },
+  {
+    "name": "Uz\u00e8s-Belvezet Airfield",
+    "icao": "LFNU",
+    "lat": 44.082146,
+    "lon": 4.393926,
+    "type": "small_airport"
+  },
+  {
+    "name": "Nuits-Saint-Georges Airfield",
+    "icao": "LFGZ",
+    "lat": 47.142032,
+    "lon": 4.968538,
+    "type": "small_airport"
+  },
+  {
+    "name": "Phalsbourg-Bourscheid Air Base",
+    "icao": "LFQP",
+    "lat": 48.766203,
+    "lon": 7.200551,
+    "type": "medium_airport"
+  },
+  {
+    "name": "Orl\u00e9ans-Bricy (BA 123) Air Base",
+    "icao": "LFOJ",
+    "lat": 47.987801,
+    "lon": 1.76056,
+    "type": "medium_airport"
+  },
+  {
+    "name": "Landivisiau Air Base",
+    "icao": "LFRJ",
+    "lat": 48.5303,
+    "lon": -4.15164,
+    "type": "medium_airport"
+  },
+  {
+    "name": "Le Luc-Le Cannet Airfield",
+    "icao": "LFMC",
+    "lat": 43.384701,
+    "lon": 6.38714,
+    "type": "medium_airport"
+  },
+  {
+    "name": "Salon-de-Provence (BA 701) Air Base",
+    "icao": "LFMY",
+    "lat": 43.6064,
+    "lon": 5.10925,
+    "type": "medium_airport"
+  },
+  {
+    "name": "Amb\u00e9rieu Air Base (BA 278)",
+    "icao": "LFXA",
+    "lat": 45.987301,
+    "lon": 5.32844,
+    "type": "medium_airport"
+  },
+  {
+    "name": "Auch Gers Airfield",
+    "icao": "LFDH",
+    "lat": 43.683606,
+    "lon": 0.599747,
+    "type": "medium_airport"
+  },
+  {
+    "name": "Verdun-Le Rozelier Airfield",
+    "icao": "LFGW",
+    "lat": 49.122398,
+    "lon": 5.46905,
+    "type": "medium_airport"
+  },
+  {
+    "name": "Le Puy-Loudes Airfield",
+    "icao": "LFHP",
+    "lat": 45.0807,
+    "lon": 3.76289,
+    "type": "small_airport"
+  },
+  {
+    "name": "A\u00e9rodrome Morin - V\u00e9drines",
+    "icao": "LFDB",
+    "lat": 44.0257,
+    "lon": 1.37804,
+    "type": "small_airport"
+  },
+  {
+    "name": "Altiport de Peyresourde Balestas",
+    "icao": "LFIP",
+    "lat": 42.796723,
+    "lon": 0.436503,
+    "type": "small_airport"
+  },
+  {
+    "name": "A\u00e9rodrome d'Eygui\u00e8res",
+    "icao": "LFNE",
+    "lat": 43.658298,
+    "lon": 5.01361,
+    "type": "small_airport"
+  },
+  {
+    "name": "A\u00e9rodrome de Romans - Saint-Paul",
+    "icao": "LFHE",
+    "lat": 45.066101,
+    "lon": 5.10333,
+    "type": "small_airport"
+  },
+  {
+    "name": "Altiport de La Motte Chalancon",
+    "icao": "LFJE",
+    "lat": 44.4958,
+    "lon": 5.40285,
+    "type": "small_airport"
+  },
+  {
+    "name": "Le Blanc Airfield",
+    "icao": "LFEL",
+    "lat": 46.6208,
+    "lon": 1.0875,
+    "type": "small_airport"
+  },
+  {
+    "name": "Oloron Herrere Airfield",
+    "icao": "LFCO",
+    "lat": 43.163503,
+    "lon": -0.561494,
+    "type": "small_airport"
+  },
+  {
+    "name": "Pons Avy Airfield",
+    "icao": "LFCP",
+    "lat": 45.57,
+    "lon": -0.515,
+    "type": "small_airport"
+  },
+  {
+    "name": "A\u00e9rodrome d'\u00c9gletons",
+    "icao": "LFDE",
+    "lat": 45.421398,
+    "lon": 2.06889,
+    "type": "small_airport"
+  },
+  {
+    "name": "Sarlat Domme Airfield",
+    "icao": "LFDS",
+    "lat": 44.791707,
+    "lon": 1.247068,
+    "type": "small_airport"
+  },
+  {
+    "name": "A\u00e9rodrome de Marennes - Le Bournet",
+    "icao": "LFJI",
+    "lat": 45.825001,
+    "lon": -1.07667,
+    "type": "small_airport"
+  },
+  {
+    "name": "Morestel Airfield",
+    "icao": "LFHI",
+    "lat": 45.686905,
+    "lon": 5.452244,
+    "type": "small_airport"
+  },
+  {
+    "name": "A\u00e9rodrome de Castelnaudary-Villeneuve",
+    "icao": "LFMW",
+    "lat": 43.312199,
+    "lon": 1.92111,
+    "type": "small_airport"
+  },
+  {
+    "name": "Bar-sur-Seine Airfield",
+    "icao": "LFFR",
+    "lat": 48.065907,
+    "lon": 4.412368,
+    "type": "small_airport"
+  },
+  {
+    "name": "La Tour-de-Pin Airfield",
+    "icao": "LFKP",
+    "lat": 45.554924,
+    "lon": 5.385867,
+    "type": "small_airport"
+  },
+  {
+    "name": "Lun\u00e9ville-Croismare Airfield",
+    "icao": "LFQC",
+    "lat": 48.593262,
+    "lon": 6.545419,
+    "type": "small_airport"
+  },
+  {
+    "name": "\u00c9pinal Dogneville Airfield",
+    "icao": "LFSE",
+    "lat": 48.211899,
+    "lon": 6.44917,
+    "type": "small_airport"
+  },
+  {
+    "name": "Fayence-Tourrettes Airfield",
+    "icao": "LFMF",
+    "lat": 43.609576,
+    "lon": 6.697369,
+    "type": "small_airport"
+  },
+  {
+    "name": "Fontenay-Tr\u00e9signy Aerodrome",
+    "icao": "LFPQ",
+    "lat": 48.706276,
+    "lon": 2.902849,
+    "type": "small_airport"
+  },
+  {
+    "name": "A\u00e9rodrome de Ghisonaccia - Alzitone",
+    "icao": "LFKG",
+    "lat": 42.053387,
+    "lon": 9.400241,
+    "type": "small_airport"
+  },
+
+  {
+    "name": "Saint-Florentin - Ch\u00e9u Airfield",
+    "icao": "LFGP",
+    "lat": 47.98019,
+    "lon": 3.775583,
+    "type": "small_airport"
+  },
+  {
+    "name": "Juvancourt Aerodrome",
+    "icao": "LFQX",
+    "lat": 48.113977,
+    "lon": 4.819424,
+    "type": "small_airport"
+  },
+  {
+    "name": "Millau-Larzac Airfield",
+    "icao": "LFCM",
+    "lat": 43.9893,
+    "lon": 3.183,
+    "type": "small_airport"
+  },
+  {
+    "name": "N\u00eemes Courbessac Airfield",
+    "icao": "LFME",
+    "lat": 43.853901,
+    "lon": 4.41361,
+    "type": "small_airport"
+  },
+  {
+    "name": "Sarre-Union Airfield",
+    "icao": "LFQU",
+    "lat": 48.950944,
+    "lon": 7.078468,
+    "type": "small_airport"
+  },
+  {
+    "name": "Saverne Steinbourg Airfield",
+    "icao": "LFQY",
+    "lat": 48.753392,
+    "lon": 7.425402,
+    "type": "small_airport"
+  },
+  {
+    "name": "Semur-en-Auxois Airfield",
+    "icao": "LFGQ",
+    "lat": 47.480998,
+    "lon": 4.342976,
+    "type": "small_airport"
+  },
+  {
+    "name": "Sist\u00e9ron-Vaumeilh Airfield",
+    "icao": "LFNS",
+    "lat": 44.286471,
+    "lon": 5.929086,
+    "type": "small_airport"
+  },
+  {
+    "name": "Avord (BA 702) Air Base",
+    "icao": "LFOA",
+    "lat": 47.053299,
+    "lon": 2.6325,
+    "type": "medium_airport"
+  },
+  {
+    "name": "\u00c9vreux-Fauville (BA 105) Air Base",
+    "icao": "LFOE",
+    "lat": 49.028702,
+    "lon": 1.21986,
+    "type": "medium_airport"
+  },
+  {
+    "name": "Cazaux (BA 120) Air Base",
+    "icao": "LFBC",
+    "lat": 44.533298,
+    "lon": -1.125,
+    "type": "medium_airport"
+  },
+  {
+    "name": "Istres-Le Tub\u00e9 Air Base",
+    "icao": "LFMI",
+    "lat": 43.522701,
+    "lon": 4.92384,
+    "type": "medium_airport"
+  },
+  {
+    "name": "Orange-Caritat (BA 115) Air Base",
+    "icao": "LFMO",
+    "lat": 44.140499,
+    "lon": 4.86672,
+    "type": "medium_airport"
+  },
+  {
+    "name": "Cognac-Ch\u00e2teaubernard (BA 709) Air Base",
+    "icao": "LFBG",
+    "lat": 45.658298,
+    "lon": -0.3175,
+    "type": "medium_airport"
+  },
+  {
+    "name": "Saint-Dizier \u2013 Robinson Air Base",
+    "icao": "LFSI",
+    "lat": 48.636002,
+    "lon": 4.89942,
+    "type": "medium_airport"
+  },
+  {
+    "name": "Nancy-Ochey (BA 133) Air Base",
+    "icao": "LFSO",
+    "lat": 48.583099,
+    "lon": 5.955,
+    "type": "medium_airport"
+  },
+  {
+    "name": "Toulouse-Francazal (BA 101) Air Base",
+    "icao": "LFBF",
+    "lat": 43.545601,
+    "lon": 1.3675,
+    "type": "medium_airport"
+  },
+  {
+    "name": "Vesoul-Frotey Airfield",
+    "icao": "LFQW",
+    "lat": 47.638588,
+    "lon": 6.204443,
+    "type": "medium_airport"
+  },
+  {
+    "name": "P\u00e9ronne Saint-Quentin Airfield",
+    "icao": "LFAG",
+    "lat": 49.868871,
+    "lon": 3.029566,
+    "type": "medium_airport"
+  },
+  {
+    "name": "Libourne-Artigues-de-Lussac Airfield",
+    "icao": "LFDI",
+    "lat": 44.98347,
+    "lon": -0.138359,
+    "type": "small_airport"
+  },
+  {
+    "name": "Sarreguemines Neunkirch Airfield",
+    "icao": "LFGU",
+    "lat": 49.128101,
+    "lon": 7.10833,
+    "type": "small_airport"
+  },
+  {
+    "name": "A\u00e9rodrome de Sainte-Foy-la-Grande",
+    "icao": "LFDF",
+    "lat": 44.8536,
+    "lon": 0.176667,
+    "type": "small_airport"
+  },
+  {
+    "name": "Couh\u00e9 V\u00e9rac Airfield",
+    "icao": "LFDV",
+    "lat": 46.2728,
+    "lon": 0.190556,
+    "type": "small_airport"
+  },
+  {
+    "name": "Bordeaux Yvrac Airfield",
+    "icao": "LFDY",
+    "lat": 44.876049,
+    "lon": -0.480416,
+    "type": "small_airport"
+  },
+  {
+    "name": "A\u00e9rodrome de Belv\u00e8s Saint-Pardoux",
+    "icao": "LFIB",
+    "lat": 44.782501,
+    "lon": 0.958889,
+    "type": "small_airport"
+  },
+  {
+    "name": "Chalais Airfield",
+    "icao": "LFIH",
+    "lat": 45.268101,
+    "lon": 0.016944,
+    "type": "small_airport"
+  },
+  {
+    "name": "Saintes Th\u00e9nac Airfield",
+    "icao": "LFXB",
+    "lat": 45.7019,
+    "lon": -0.636111,
+    "type": "small_airport"
+  },
+  {
+    "name": "A\u00e9rodrome de Condom - Valence-sur-Ba\u00efse",
+    "icao": "LFID",
+    "lat": 43.910301,
+    "lon": 0.387222,
+    "type": "small_airport"
+  },
+  {
+    "name": "Mont Louis La Quillane Airfield",
+    "icao": "LFNQ",
+    "lat": 42.543598,
+    "lon": 2.12,
+    "type": "small_airport"
+  },
+  {
+    "name": "La Grand'combe Airfield",
+    "icao": "LFTN",
+    "lat": 44.2444,
+    "lon": 4.01222,
+    "type": "small_airport"
+  },
+  {
+    "name": "Ste L\u00e9ocadie Airfield",
+    "icao": "LFYS",
+    "lat": 42.447201,
+    "lon": 2.01083,
+    "type": "small_airport"
+  },
+  {
+    "name": "Le Mazet De Romanin Airfield",
+    "icao": "LFNZ",
+    "lat": 43.768902,
+    "lon": 4.89361,
+    "type": "small_airport"
+  },
+  {
+    "name": "A\u00e9rodrome de P\u00e9rouges - Meximieux",
+    "icao": "LFHC",
+    "lat": 45.869701,
+    "lon": 5.18722,
+    "type": "small_airport"
+  },
+  {
+    "name": "Saint-Jean-en-Royans Airfield",
+    "icao": "LFKE",
+    "lat": 45.027802,
+    "lon": 5.31,
+    "type": "small_airport"
+  },
+  {
+    "name": "A\u00e9rodrome de Feurs - Chamb\u00e9on",
+    "icao": "LFLZ",
+    "lat": 45.70622,
+    "lon": 4.19734,
+    "type": "small_airport"
+  },
+  {
+    "name": "Saint Sulpice des Landes",
+    "icao": "LFSS",
+    "lat": 47.791667,
+    "lon": -1.643611,
+    "type": "small_airport"
+  },
+  {
+    "name": "Ambert - Le Poyet Airfield",
+    "icao": "LFHT",
+    "lat": 45.516196,
+    "lon": 3.74514,
+    "type": "small_airport"
+  },
+  {
+    "name": "Ancenis Airfield",
+    "icao": "LFFI",
+    "lat": 47.4081,
+    "lon": -1.1775,
+    "type": "small_airport"
+  },
+  {
+    "name": "Tours Le Louroux Airfield",
+    "icao": "LFJT",
+    "lat": 47.149251,
+    "lon": 0.711125,
+    "type": "small_airport"
+  },
+  {
+    "name": "Enghien-Moisselles Airfield",
+    "icao": "LFFE",
+    "lat": 49.046016,
+    "lon": 2.353976,
+    "type": "small_airport"
+  },
+  {
+    "name": "Autun-Bellevue Airfield",
+    "icao": "LFQF",
+    "lat": 46.967277,
+    "lon": 4.260925,
+    "type": "small_airport"
+  },
+  {
+    "name": "Nancy Azelot Airfield",
+    "icao": "LFEX",
+    "lat": 48.59347,
+    "lon": 6.241035,
+    "type": "small_airport"
+  },
+  {
+    "name": "Lyon Brindas Airfield",
+    "icao": "LFKL",
+    "lat": 45.710544,
+    "lon": 4.696675,
+    "type": "small_airport"
+  },
+  {
+    "name": "Sarrebourg Buhl Airfield",
+    "icao": "LFGT",
+    "lat": 48.716875,
+    "lon": 7.074316,
+    "type": "small_airport"
+  },
+  {
+    "name": "Belfort Chaux Airfield",
+    "icao": "LFGG",
+    "lat": 47.700732,
+    "lon": 6.831265,
+    "type": "small_airport"
+  },
+  {
+    "name": "Champagnole-Crotenay Airfield",
+    "icao": "LFGX",
+    "lat": 46.763032,
+    "lon": 5.819664,
+    "type": "small_airport"
+  },
+  {
+    "name": "Tournus Cuisery Airfield",
+    "icao": "LFFX",
+    "lat": 46.56206,
+    "lon": 4.975629,
+    "type": "small_airport"
+  },
+  {
+    "name": "A\u00e9rodrome de Gaillac - Lisle-sur-Tarn",
+    "icao": "LFDG",
+    "lat": 43.8839,
+    "lon": 1.87556,
+    "type": "small_airport"
+  },
+  {
+    "name": "Co\u00ebtquidan Air Base",
+    "icao": "LFXQ",
+    "lat": 47.943056,
+    "lon": -2.185872,
+    "type": "small_airport"
+  },
+  {
+    "name": "Guiscriff Scaer Airfield",
+    "icao": "LFES",
+    "lat": 48.052502,
+    "lon": -3.66472,
+    "type": "small_airport"
+  },
+  {
+    "name": "La Fl\u00e8che-Thor\u00e9e-les-Pins Airfield",
+    "icao": "LFAL",
+    "lat": 47.69261,
+    "lon": -0.002198,
+    "type": "small_airport"
+  },
+  {
+    "name": "A\u00e9rodrome de Vauville",
+    "icao": "LFAU",
+    "lat": 49.622775,
+    "lon": -1.830688,
+    "type": "small_airport"
+  },
+  {
+    "name": "Bar-le-Duc Airfield",
+    "icao": "LFEU",
+    "lat": 48.867519,
+    "lon": 5.185068,
+    "type": "small_airport"
+  },
+  {
+    "name": "Saint-Omer Wizernes Airfield",
+    "icao": "LFQN",
+    "lat": 50.727456,
+    "lon": 2.232586,
+    "type": "small_airport"
+  },
+  {
+    "name": "Maul\u00e9on Airfield",
+    "icao": "LFJB",
+    "lat": 46.902802,
+    "lon": -0.697778,
+    "type": "small_airport"
+  },
+  {
+    "name": "Pouilly-Maconge Airfield",
+    "icao": "LFEP",
+    "lat": 47.221401,
+    "lon": 4.56111,
+    "type": "small_airport"
+  },
+  {
+    "name": "Loudun Airfield",
+    "icao": "LFDL",
+    "lat": 47.035941,
+    "lon": 0.100619,
+    "type": "small_airport"
+  },
+  {
+    "name": "Belley-Peyrieu Airfield",
+    "icao": "LFKY",
+    "lat": 45.694121,
+    "lon": 5.691533,
+    "type": "small_airport"
+  },
+  {
+    "name": "A\u00e9rodrome de Saint-Junien",
+    "icao": "LFBJ",
+    "lat": 45.903301,
+    "lon": 0.92,
+    "type": "small_airport"
+  },
+  {
+    "name": "Pont-Saint-Vincent Airfield",
+    "icao": "LFSV",
+    "lat": 48.600127,
+    "lon": 6.056514,
+    "type": "small_airport"
+  },
+  {
+    "name": "Puimoisson Airfield",
+    "icao": "LFTP",
+    "lat": 43.86889,
+    "lon": 6.16278,
+    "type": "small_airport"
+  },
+  {
+    "name": "Avignon-Pujaut Airfield",
+    "icao": "LFNT",
+    "lat": 43.996899,
+    "lon": 4.75556,
+    "type": "small_airport"
+  },
+  {
+    "name": "Redon Bains-sur-Oust Airfield",
+    "icao": "LFER",
+    "lat": 47.699402,
+    "lon": -2.03667,
+    "type": "small_airport"
+  },
+  {
+    "name": "Saint-Di\u00e9-Remomeix Airfield",
+    "icao": "LFGY",
+    "lat": 48.266475,
+    "lon": 7.007447,
+    "type": "small_airport"
+  },
+  {
+    "name": "Plo\u00ebrmel Loyat Airfield",
+    "icao": "LFRP",
+    "lat": 48.0028,
+    "lon": -2.37722,
+    "type": "small_airport"
+  },
+  {
+    "name": "Vienne Reventin Airfield",
+    "icao": "LFHH",
+    "lat": 45.462434,
+    "lon": 4.828147,
+    "type": "small_airport"
+  },
+  {
+    "name": "A\u00e9rodrome de Rib\u00e9rac-Tourette",
+    "icao": "LFIK",
+    "lat": 45.238667,
+    "lon": 0.264798,
+    "type": "small_airport"
+  },
+  {
+    "name": "Fumel Montayral Airfield",
+    "icao": "LFDX",
+    "lat": 44.460921,
+    "lon": 1.006708,
+    "type": "small_airport"
+  },
+  {
+    "name": "Saint-Flour-Coltines Airfield",
+    "icao": "LFHQ",
+    "lat": 45.076401,
+    "lon": 2.99361,
+    "type": "small_airport"
+  },
+  {
+    "name": "Nancy-Malz\u00e9ville Airfield",
+    "icao": "LFEZ",
+    "lat": 48.7244,
+    "lon": 6.20778,
+    "type": "small_airport"
+  },
+  {
+    "name": "Besan\u00e7on-Thise Airfield",
+    "icao": "LFSA",
+    "lat": 47.273144,
+    "lon": 6.082885,
+    "type": "small_airport"
+  },
+  {
+    "name": "Villeneuve-sur-Lot Airfield",
+    "icao": "LFCW",
+    "lat": 44.3969,
+    "lon": 0.758889,
+    "type": "small_airport"
+  },
+  {
+    "name": "Valr\u00e9as Visan Airfield",
+    "icao": "LFNV",
+    "lat": 44.33574,
+    "lon": 4.906877,
+    "type": "small_airport"
+  },
+  {
+    "name": "Mont-de-Marsan (BA 118) Air Base",
+    "icao": "LFBM",
+    "lat": 43.911701,
+    "lon": -0.5075,
+    "type": "medium_airport"
+  },
+  {
+    "name": "Luxeuil-Saint-Sauveur (BA 116) Air Base",
+    "icao": "LFSX",
+    "lat": 47.787747,
+    "lon": 6.353419,
+    "type": "medium_airport"
+  },
+  {
+    "name": "Creil Air Base",
+    "icao": "LFPC",
+    "lat": 49.253502,
+    "lon": 2.51914,
+    "type": "medium_airport"
+  },
+  {
+    "name": "Montb\u00e9liard-Courcelles Airfield",
+    "icao": "LFSM",
+    "lat": 47.487,
+    "lon": 6.79054,
+    "type": "medium_airport"
+  },
+  {
+    "name": "Lanv\u00e9oc-Poulmic Air Base",
+    "icao": "LFRL",
+    "lat": 48.2817,
+    "lon": -4.44502,
+    "type": "medium_airport"
+  },
+  {
+    "name": "Lieutenant \u00c9tienne Mantoux Air Base",
+    "icao": "LFQE",
+    "lat": 49.226898,
+    "lon": 5.67222,
+    "type": "medium_airport"
+  },
+  {
+    "name": "Solenzara (BA 126) Air Base",
+    "icao": "LFKS",
+    "lat": 41.9244,
+    "lon": 9.406,
+    "type": "medium_airport"
+  },
+  {
+    "name": "Beauvoir Fromentine Airfield",
+    "icao": "LFFO",
+    "lat": 46.890422,
+    "lon": -2.088475,
+    "type": "small_airport"
+  },
+  {
+    "name": "Lapalisse - P\u00e9rigny Airfield",
+    "icao": "LFHX",
+    "lat": 46.253899,
+    "lon": 3.58861,
+    "type": "small_airport"
+  },
+  {
+    "name": "St Galmier Airfield",
+    "icao": "LFKM",
+    "lat": 45.607201,
+    "lon": 4.30583,
+    "type": "small_airport"
+  },
+  {
+    "name": "Bailleau Armenonville Airfield",
+    "icao": "LFFL",
+    "lat": 48.5158,
+    "lon": 1.64,
+    "type": "small_airport"
+  },
+  {
+    "name": "Ch\u00e2teauneuf Sur Cher Airfield",
+    "icao": "LFFU",
+    "lat": 46.871101,
+    "lon": 2.37694,
+    "type": "small_airport"
+  },
+  {
+    "name": "A\u00e9rodrome de Figeac - Livernon",
+    "icao": "LFCF",
+    "lat": 44.673302,
+    "lon": 1.78917,
+    "type": "small_airport"
+  },
+  {
+    "name": "Nogaro Airfield",
+    "icao": "LFCN",
+    "lat": 43.769699,
+    "lon": -0.032778,
+    "type": "small_airport"
+  },
+  {
+    "name": "Castelnau Magnoac Airfield",
+    "icao": "LFDQ",
+    "lat": 43.2794,
+    "lon": 0.521667,
+    "type": "small_airport"
+  },
+  {
+    "name": "Revel Montgey Airfield",
+    "icao": "LFIR",
+    "lat": 43.4814,
+    "lon": 1.98,
+    "type": "small_airport"
+  },
+  {
+    "name": "A\u00e9rodrome de Toulouse Bourg-Saint-Bernard",
+    "icao": "LFIT",
+    "lat": 43.612202,
+    "lon": 1.72528,
+    "type": "small_airport"
+  },
+  {
+    "name": "A\u00e9rodrome de Caz\u00e8res - Palaminy",
+    "icao": "LFJH",
+    "lat": 43.202202,
+    "lon": 1.05111,
+    "type": "small_airport"
+  },
+  {
+    "name": "A\u00e9rodrome de Saint-Martin-de-Londres",
+    "icao": "LFNL",
+    "lat": 43.8008,
+    "lon": 3.7825,
+    "type": "small_airport"
+  },
+  {
+    "name": "Florac Ste Enimie Airfield",
+    "icao": "LFNO",
+    "lat": 44.2864,
+    "lon": 3.46667,
+    "type": "small_airport"
+  },
+  {
+    "name": "Puivert Airfield",
+    "icao": "LFNW",
+    "lat": 42.9114,
+    "lon": 2.05611,
+    "type": "small_airport"
+  },
+  {
+    "name": "B\u00e9darieux La Tour Airfield",
+    "icao": "LFNX",
+    "lat": 43.6408,
+    "lon": 3.14556,
+    "type": "small_airport"
+  },
+  {
+    "name": "Serres - La B\u00e2tie-Montsal\u00e9on Airfield",
+    "icao": "LFTM",
+    "lat": 44.458302,
+    "lon": 5.72833,
+    "type": "small_airport"
+  },
+  {
+    "name": "Montaigu St Georges Airfield",
+    "icao": "LFFW",
+    "lat": 46.933102,
+    "lon": -1.32556,
+    "type": "small_airport"
+  },
+  {
+    "name": "La R\u00e9ole Floudes Airfield",
+    "icao": "LFDR",
+    "lat": 44.5681,
+    "lon": -0.056111,
+    "type": "small_airport"
+  },
+  {
+    "name": "Lesparre St Laurent Medoc Airfield",
+    "icao": "LFDU",
+    "lat": 45.1978,
+    "lon": -0.882222,
+    "type": "small_airport"
+  },
+  {
+    "name": "Chauvigny Airfield",
+    "icao": "LFDW",
+    "lat": 46.583599,
+    "lon": 0.6425,
+    "type": "small_airport"
+  },
+  {
+    "name": "Rion Des Landes Airfield",
+    "icao": "LFIL",
+    "lat": 43.915798,
+    "lon": -0.949167,
+    "type": "small_airport"
+  },
+  {
+    "name": "Itxassou Airfield",
+    "icao": "LFIX",
+    "lat": 43.337502,
+    "lon": -1.42222,
+    "type": "small_airport"
+  },
+  {
+    "name": "Aspres-sur-Bu\u00ebch Airfield",
+    "icao": "LFNJ",
+    "lat": 44.517458,
+    "lon": 5.735743,
+    "type": "small_airport"
+  },
+  {
+    "name": "Cessey-Baigneux-les-Juffs Airfield",
+    "icao": "LFSY",
+    "lat": 47.609375,
+    "lon": 4.618199,
+    "type": "small_airport"
+  },
+  {
+    "name": "Brioude Beaumont Airfield",
+    "icao": "LFHR",
+    "lat": 45.319888,
+    "lon": 3.361615,
+    "type": "small_airport"
+  },
+  {
+    "name": "Belleville Villi\u00e9 Morgon Airfield",
+    "icao": "LFHW",
+    "lat": 46.140843,
+    "lon": 4.713817,
+    "type": "small_airport"
+  },
+  {
+    "name": "Saint-Affrique-Belmont Airfield",
+    "icao": "LFIF",
+    "lat": 43.824568,
+    "lon": 2.743979,
+    "type": "small_airport"
+  },
+  {
+    "name": "Lens-B\u00e9nifontaine Airfield",
+    "icao": "LFQL",
+    "lat": 50.4664,
+    "lon": 2.81972,
+    "type": "small_airport"
+  },
+  {
+    "name": "Berre-la-Fare Airfield",
+    "icao": "LFNR",
+    "lat": 43.536659,
+    "lon": 5.177444,
+    "type": "small_airport"
+  },
+  {
+    "name": "Buno-Bonnevaux Airfield",
+    "icao": "LFFB",
+    "lat": 48.350074,
+    "lon": 2.424431,
+    "type": "small_airport"
+  },
+  {
+    "name": "Cassagnes-B\u00e9gonh\u00e8s Airfield",
+    "icao": "LFIG",
+    "lat": 44.177799,
+    "lon": 2.515,
+    "type": "small_airport"
+  },
+  {
+    "name": "Ch\u00e2tillon-sur-Seine Airfield",
+    "icao": "LFQH",
+    "lat": 47.843924,
+    "lon": 4.580045,
+    "type": "small_airport"
+  },
+  {
+    "name": "Mantes-Ch\u00e9rence Airfield",
+    "icao": "LFFC",
+    "lat": 49.078814,
+    "lon": 1.68829,
+    "type": "small_airport"
+  },
+  {
+    "name": "Saint Gaudens Montr\u00e9jeau Airfield",
+    "icao": "LFIM",
+    "lat": 43.107425,
+    "lon": 0.619132,
+    "type": "small_airport"
+  },
+  {
+    "name": "Falaise-Mont d'Eraines Airfield",
+    "icao": "LFAS",
+    "lat": 48.9272,
+    "lon": -0.144722,
+    "type": "small_airport"
+  },
+  {
+    "name": "Montlu\u00e7on-Dom\u00e9rat Airfield",
+    "icao": "LFLT",
+    "lat": 46.352767,
+    "lon": 2.570479,
+    "type": "small_airport"
+  },
+  {
+    "name": "Villerupt Aerodrome",
+    "icao": "LFAW",
+    "lat": 49.410424,
+    "lon": 5.889301,
+    "type": "small_airport"
+  },
+  {
+    "name": "\u00c9tr\u00e9pagny Airfield",
+    "icao": "LFFY",
+    "lat": 49.305273,
+    "lon": 1.637907,
+    "type": "small_airport"
+  },
+  {
+    "name": "St Jean D'avelanne Airfield",
+    "icao": "LFKH",
+    "lat": 45.516701,
+    "lon": 5.68056,
+    "type": "small_airport"
+  },
+  {
+    "name": "A\u00e9rodrome de Flers Saint-Paul",
+    "icao": "LFOG",
+    "lat": 48.749964,
+    "lon": -0.593927,
+    "type": "small_airport"
+  },
+  {
+    "name": "Saint-Quentin-Roupy Airfield",
+    "icao": "LFOW",
+    "lat": 49.816089,
+    "lon": 3.205734,
+    "type": "small_airport"
+  },
+  {
+    "name": "Fontenay Le Comte Airfield",
+    "icao": "LFFK",
+    "lat": 46.441399,
+    "lon": -0.792778,
+    "type": "small_airport"
+  },
+  {
+    "name": "Dieuze-Gu\u00e9blange Airfield",
+    "icao": "LFQZ",
+    "lat": 48.774378,
+    "lon": 6.714106,
+    "type": "small_airport"
+  },
+  {
+    "name": "Havre-Saint-Romain-de-Colbosc Airfield",
+    "icao": "LFOY",
+    "lat": 49.544676,
+    "lon": 0.360403,
+    "type": "small_airport"
+  },
+  {
+    "name": "Saint-Chamond L'Horme Airfield",
+    "icao": "LFHG",
+    "lat": 45.491892,
+    "lon": 4.534375,
+    "type": "small_airport"
+  },
+  {
+    "name": "La Fert\u00e9-Gaucher Airfield",
+    "icao": "LFFG",
+    "lat": 48.757019,
+    "lon": 3.278098,
+    "type": "small_airport"
+  },
+  {
+    "name": "A\u00e9rodrome de Lasclaveries",
+    "icao": "LFJV",
+    "lat": 43.425278,
+    "lon": -0.286944,
+    "type": "small_airport"
+  },
+  {
+    "name": "Issoire-Le Broc Airfield",
+    "icao": "LFHA",
+    "lat": 45.514999,
+    "lon": 3.2675,
+    "type": "small_airport"
+  },
+  {
+    "name": "Langogne-Lesp\u00e9ron Airfield",
+    "icao": "LFHL",
+    "lat": 44.703589,
+    "lon": 3.88485,
+    "type": "small_airport"
+  },
+  {
+    "name": "Saulieu-Liernais Airfield",
+    "icao": "LFEW",
+    "lat": 47.239263,
+    "lon": 4.265928,
+    "type": "small_airport"
+  },
+  {
+    "name": "Lurcy-L\u00e9vis Airfield",
+    "icao": "LFJU",
+    "lat": 46.712283,
+    "lon": 2.944768,
+    "type": "small_airport"
+  },
+  {
+    "name": "A\u00e9rodrome de Castelsarrasin Moissac",
+    "icao": "LFCX",
+    "lat": 44.086423,
+    "lon": 1.127191,
+    "type": "small_airport"
+  },
+  {
+    "name": "Montdidier Airfield",
+    "icao": "LFAR",
+    "lat": 49.672118,
+    "lon": 2.567811,
+    "type": "small_airport"
+  },
+  {
+    "name": "Joinville Mussey Airfield",
+    "icao": "LFFJ",
+    "lat": 48.385086,
+    "lon": 5.143468,
+    "type": "small_airport"
+  },
+  {
+    "name": "Neufch\u00e2teau Airfield",
+    "icao": "LFFT",
+    "lat": 48.35895,
+    "lon": 5.719615,
+    "type": "small_airport"
+  },
+  {
+    "name": "Cambrai Niergnies Airfield",
+    "icao": "LFYG",
+    "lat": 50.140533,
+    "lon": 3.263226,
+    "type": "small_airport"
+  },
+  {
+    "name": "Dax Seyresse Airfield",
+    "icao": "LFBY",
+    "lat": 43.689201,
+    "lon": -1.06889,
+    "type": "small_airport"
+  },
+  {
+    "name": "Pithiviers Airfield",
+    "icao": "LFFP",
+    "lat": 48.155176,
+    "lon": 2.187563,
+    "type": "small_airport"
+  },
+  {
+    "name": "A\u00e9rodrome de la Montagne Noire",
+    "icao": "LFMG",
+    "lat": 43.407501,
+    "lon": 1.99028,
+    "type": "small_airport"
+  },
+  {
+    "name": "A\u00e9rodrome de Villefranche de Rouergue",
+    "icao": "LFCV",
+    "lat": 44.369491,
+    "lon": 2.025722,
+    "type": "small_airport"
+  },
+  {
+    "name": "Issoudun Le Fay Airfield",
+    "icao": "LFEK",
+    "lat": 46.887981,
+    "lon": 2.039903,
+    "type": "small_airport"
+  },
+  {
+    "name": "Gu\u00e9ret Saint-Laurent Airfield",
+    "icao": "LFCE",
+    "lat": 46.176071,
+    "lon": 1.953831,
+    "type": "small_airport"
+  },
+  {
+    "name": "Arras-Roclincourt Airfield",
+    "icao": "LFQD",
+    "lat": 50.323898,
+    "lon": 2.80278,
+    "type": "small_airport"
+  },
+  {
+    "name": "Toulon Navy Air Base",
+    "icao": "LFTR",
+    "lat": 43.082699,
+    "lon": 5.93382,
+    "type": "heliport"
+  },
+  {
+    "name": "Ch\u00e2teauroux Villers Airfield",
+    "icao": "LFEJ",
+    "lat": 46.840863,
+    "lon": 1.619951,
+    "type": "small_airport"
+  },
+  {
+    "name": "S\u00e9zanne-Saint-Remy Airfield",
+    "icao": "LFFZ",
+    "lat": 48.70957,
+    "lon": 3.763304,
+    "type": "small_airport"
+  },
+  {
+    "name": "Rethel-Perthes Airfield",
+    "icao": "LFAP",
+    "lat": 49.48097,
+    "lon": 4.363304,
+    "type": "small_airport"
+  },
+  {
+    "name": "Ussel-Thalamy Airfield",
+    "icao": "LFCU",
+    "lat": 45.535738,
+    "lon": 2.424474,
+    "type": "small_airport"
+  },
+  {
+    "name": "Solli\u00e8res Sardi\u00e8res Airfield",
+    "icao": "LFKD",
+    "lat": 45.253804,
+    "lon": 6.801138,
+    "type": "small_airport"
+  },
+  {
+    "name": "Vitry-le-Fran\u00e7ois Vauclerc Airfield",
+    "icao": "LFSK",
+    "lat": 48.702367,
+    "lon": 4.683109,
+    "type": "small_airport"
+  },
+  {
+    "name": "Vierzon-M\u00e9reau Airfield",
+    "icao": "LFFV",
+    "lat": 47.194052,
+    "lon": 2.065412,
+    "type": "small_airport"
+  },
+  {
+    "name": "Chaumont-Semoutiers Airfield",
+    "icao": "LFJA",
+    "lat": 48.080719,
+    "lon": 5.047703,
+    "type": "small_airport"
+  },
+  {
+    "name": "Vitry-en-Artois Airfield",
+    "icao": "LFQS",
+    "lat": 50.337883,
+    "lon": 2.990714,
+    "type": "small_airport"
+  }
+]
