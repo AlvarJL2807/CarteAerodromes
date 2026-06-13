@@ -21,6 +21,13 @@
     "type": "small_airport"
   },
   {
+    "name": "Briare-Châtillon airport",
+    "icao": "LFEI",
+    "lat": 47.614076,
+    "lon": 2.782581,
+    "type": "small_airport"
+  },
+  {
     "name": "Dreux Vernouillet airport",
     "icao": "LFON",
     "lat": 48.705676,
