@@ -21,6 +21,13 @@
     "type": "small_airport"
   },
   {
+    "name": "Avallon airport",
+    "icao": "LFGE",
+    "lat": 47.501995,
+    "lon": 3.898075,
+    "type": "small_airport"
+  },
+  {
     "name": "Briare-Châtillon airport",
     "icao": "LFEI",
     "lat": 47.614076,
