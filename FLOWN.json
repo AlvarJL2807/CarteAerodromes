@@ -35,6 +35,13 @@
     "type": "small_airport"
   },
   {
+    "name": "Saint-Inglevert airport",
+    "icao": "LFIS",
+    "lat": 50.881784,
+    "lon":  1.735214,
+    "type": "small_airport"
+  },
+  {
     "name": "Montpellier-Méditerranée Airport",
     "icao": "LFMT",
     "lat": 43.576199,
