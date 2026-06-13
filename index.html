@@ -11,8 +11,6 @@
         body, html { margin: 0; padding: 0; height: 100%; background-color: #000; }
         #map { height: 100vh; width: 100vw; background-color: #000; }
 
-        /* The overall marker class becomes a large, transparent 32x32px flexbox container.
-           This serves as the invisible, easy-to-click hitbox. */
         .glow-dot, .glow-dot-selected {
             background: transparent !important;
             border: none !important;
@@ -22,7 +20,6 @@
             cursor: pointer;
         }
 
-        /* We isolate the visual dot and glow rules into a pseudo-element centered inside the hitbox */
         .glow-dot::after {
             content: '';
             display: block;
@@ -34,7 +31,6 @@
             transition: box-shadow 0.2s ease-in-out; 
         }
 
-        /* The selected visual dot state */
         .glow-dot-selected::after {
             content: '';
             display: block;
@@ -45,7 +41,6 @@
             box-shadow: 0 0 14px 5px rgba(135, 206, 250, 0.9); 
         }
 
-        /* Forces the selected target's parent wrapper above unselected ones */
         .glow-dot-selected {
             z-index: 1000 !important;
         }
@@ -66,8 +61,7 @@
         maxZoom: 19
     }).addTo(map);
 
-    /* We expand the active icon size to 32x32 pixels. 
-       iconAnchor [16, 16] keeps the center point perfectly locked to the coordinates. */
+
     const defaultIcon = L.divIcon({
         className: 'glow-dot',
         iconSize: [32, 32],
@@ -80,7 +74,6 @@
         iconAnchor: [16, 16]
     });
 
-    // Helper function to handle fetching and placing airport points
     function renderAirports(jsonFile, chosenIcon) {
         fetch(jsonFile)
             .then(response => response.json())
@@ -90,8 +83,7 @@
                         const marker = L.marker([airport.lat, airport.lon], { icon: chosenIcon });
                         
                         /* ----------------------------------------------------
-                        // CLICK INTERACTION CODE (DISABLED FOR NOW)
-                        // To re-enable click behavior later, simply remove these comment slashes.
+                        // SECTION ABATTUE
                         
                         let isSelected = (chosenIcon === selectedIcon);
                         
@@ -113,10 +105,9 @@
             .catch(error => console.error(`Error loading the file (${jsonFile}):`, error));
     }
 
-    // Map both JSON files simultaneously 
-    // (Note: Adjust filenames inside the quotes below if you named your local files differently)
-    renderAirports('FLOWN.json', selectedIcon);     // Blue Cores
-    renderAirports('NOTFLOWN.json', defaultIcon); // Yellow Cores
+
+    renderAirports('FLOWN.json', selectedIcon);
+    renderAirports('NOTFLOWN.json', defaultIcon);
 
 </script>
 
