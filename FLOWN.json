@@ -21,6 +21,20 @@
     "type": "small_airport"
   },
   {
+    "name": "Epernay-Plivot airport",
+    "icao": "LFSW",
+    "lat": 49.004949,
+    "lon": 4.084876,
+    "type": "small_airport"
+  },
+  {
+    "name": "Château-Thierry-Belleau airport",
+    "icao": "LFFH",
+    "lat": 49.067009,
+    "lon": 3.355794,
+    "type": "small_airport"
+  },
+  {
     "name": "Avallon airport",
     "icao": "LFGE",
     "lat": 47.501995,
