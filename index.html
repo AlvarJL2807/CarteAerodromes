@@ -74,12 +74,6 @@
 
 <div id="map"></div>
 
-
-
-
-
-
-
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 
 <script>
@@ -97,40 +91,28 @@
         iconAnchor: [16, 16]
     });
 
-
-
-
-
     const Iconeclique = L.divIcon({
         className: 'glow-dot-selected',
         iconSize: [32, 32],
         iconAnchor: [16, 16]
     });
 
-
     function renderAirports(jsonFile, chosenIcon) {
         fetch(jsonFile)
             .then(response => response.json())
             .then(data => {
                 data.forEach(airport => {
-
                     
                     if(airport.lat && airport.lon) {
                         const marker = L.marker([airport.lat, airport.lon], { icon: chosenIcon });
-
                         
                         const etiquetteTerrain = airport.icao ? `${airport.icao} - ${airport.name}` : airport.name;
-                        
                         
                         marker.bindPopup(etiquetteTerrain, {
                             closeButton: false,        
                             offset: L.point(0, -10), 
                             className: 'custom-dark-popup'
                         });
-
-
-
-
                         
                         marker.addTo(map);
                     }
@@ -138,13 +120,6 @@
             })
             .catch(error => console.error(`Error loading the file (${jsonFile}):`, error));
     }
-
-
-
-
-
-
-
 
     renderAirports('FLOWN.json', Iconeclique); 
     renderAirports('NOTFLOWN.json', Iconedebase); 
